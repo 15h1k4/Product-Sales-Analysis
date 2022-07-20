@@ -23,17 +23,6 @@ HI! My name is Ishika Sarkar. I have created analysis project on Product Sales u
      * **Multiple Table**: Linked two data and made a chart based on this.
       
       
-***Tools Used***: 
-     - Pivot Tables
-     - Power Pivot
-     - Xlookup, Sequence, Forecast, Unique
-     - Conditional Formatting
-     - Data Validation
-     - Charts
-     - Sparkline
-     - Pivot Chart
-     - Form Control
-     - Slicers
-     - Filtering & Sorting
+***Tools Used***: Pivot Tables, PowerPivot, Xlookup, Sequence, Forecast, Unique, Conditional Formatting, Data Validation, Charts, Sparkline, Pivot Chart, Form Control, Slicers, Filtering & Sorting
 
 
