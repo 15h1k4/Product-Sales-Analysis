@@ -24,16 +24,16 @@ HI! My name is Ishika Sarkar. I have created analysis project on Product Sales u
       
       
 ***Tools Used***: 
-     * Pivot Tables
-     * Power Pivot
-     * Xlookup, Sequence, Forecast, Unique
-     * Conditional Formatting
-     * Data Validation
-     * Charts
-     * Sparkline
-     * Pivot Chart
-     * Form Control
-     * Slicers
-     * Filtering & Sorting
+     - Pivot Tables
+     - Power Pivot
+     - Xlookup, Sequence, Forecast, Unique
+     - Conditional Formatting
+     - Data Validation
+     - Charts
+     - Sparkline
+     - Pivot Chart
+     - Form Control
+     - Slicers
+     - Filtering & Sorting
 
 
