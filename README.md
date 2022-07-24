@@ -12,7 +12,7 @@ HI! My name is Ishika Sarkar. I have created analysis project on Product Sales u
      * **Rough Data**: Used for the ease of gathering quantitative data for analysis.
      * **Univariate Analysis**: For removing outliers, missing values and other data clean processes.
      * **Linear Regression**: Made a simple linear regression model for the sales.
-     * **Cleaned Data**: Contains cleaned data with 26 columns including "Predicted" sheet.
+     * **Cleaned Data**: Contains cleaned data with 26 columns including "Predicted".
      * **Working**: Pivot Tables for the ease of making dashboard using Pivot Chart.
      * **Dashboard I and Dashboard II**: These are the dashboards made using the Pivot Tables in "Working" sheet.
      * **Regional Sales**: Statewise Sales.
