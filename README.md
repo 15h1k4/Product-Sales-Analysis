@@ -24,7 +24,7 @@ HI! My name is Ishika Sarkar. I have created analysis project on Product Sales u
      * **Anomaly Detection**: Outliers detection.
      * **Growth**: Progress of products by months(Jan-Jun).
      * **Description**: Evaluated product base margin.
-     * **Access**: Uploaded the file from Access.
+     * **Access**: Uploaded the file from MS Access.
      * **Income by Education Level**: Yearly income sum with their qualification.
      * **Multiple Table**: Linked two data and made a chart based on this.
       
