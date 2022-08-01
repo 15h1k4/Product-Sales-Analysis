@@ -6,7 +6,7 @@ HI! My name is Ishika Sarkar. I have created analysis project on Product Sales u
 
 * This file consists of Product Sales record of few states in USA.
 * It has 1000+ sales record along with customer details with their unique Customer ID in sheet "Actual Data".
-* This workbook includes 21 sheets:-
+* This workbook includes 20 sheets:-
      * **Introduction**: General intoduction about the data and analysis.
      * **Actual Data**: Contains real data with 25 columns which is used in analysis.
      * **Rough Data**: Used for the ease of gathering quantitative data for analysis.
@@ -21,7 +21,6 @@ HI! My name is Ishika Sarkar. I have created analysis project on Product Sales u
      * **Unit Sales**: Sales of product subcategory by their unit price.
      * **Prediction & Sales**: Comparison of predicted sales and actual sales by months.
      * **Sub-category Sales**: Regionwise sales for product sub-category.
-     * **Anomaly Detection**: Outliers detection.
      * **Growth**: Progress of products by months(Jan-Jun).
      * **Description**: Evaluated product base margin.
      * **Access**: Uploaded the file from MS Access.
